@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Alura.Estacionamento/bin/Debug/net5.0/Alura.Estacionamento.dll",
+            "program": "${workspaceFolder}/Alura.Estacionamento/bin/Debug/net6.0/Alura.Estacionamento.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
