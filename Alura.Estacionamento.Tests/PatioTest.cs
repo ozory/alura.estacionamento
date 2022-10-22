@@ -47,7 +47,28 @@ namespace Alura.Estacionamento.Tests
                 string modelo
             )
         {
+            // Arrange
 
+            var estacionamento = new Patio();
+
+            estacionamento.OperadorPatio = new Operador() { Nome = "André" };
+            var veiculo = new Veiculo()
+            {
+                Proprietario = "Paulo",
+                Tipo = TipoVeiculo.Automovel,
+                Cor = "Preto",
+                Modelo = "Mustang",
+                Placa = "ASD-9999"
+            };
+
+            estacionamento.RegistrarEntradaVeiculo(veiculo);
+            estacionamento.RegistrarSaidaVeiculo(veiculo.Placa);
+
+            // Act
+            double faturamento = estacionamento.TotalFaturado();
+
+            // Assert
+            Assert.Equal(2, faturamento);
         }
     }
 }
