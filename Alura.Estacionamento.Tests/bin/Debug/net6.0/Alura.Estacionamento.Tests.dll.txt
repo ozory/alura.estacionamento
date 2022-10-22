@@ -1,0 +1,3 @@
+Alura.Estacionamento.Tests.PatioTest.ValidaFatureamento
+Alura.Estacionamento.Tests.VeiculoTest.TestaVeiculoAcelerar
+Alura.Estacionamento.Tests.VeiculoTest.TestaVeiculoFrear

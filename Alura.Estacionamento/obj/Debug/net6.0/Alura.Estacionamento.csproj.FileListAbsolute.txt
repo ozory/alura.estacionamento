@@ -1,0 +1,15 @@
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/bin/Debug/net6.0/Alura.Estacionamento
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/bin/Debug/net6.0/Alura.Estacionamento.deps.json
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/bin/Debug/net6.0/Alura.Estacionamento.runtimeconfig.json
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/bin/Debug/net6.0/Alura.Estacionamento.dll
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/bin/Debug/net6.0/ref/Alura.Estacionamento.dll
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/bin/Debug/net6.0/Alura.Estacionamento.pdb
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.csproj.AssemblyReference.cache
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.AssemblyInfoInputs.cache
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.AssemblyInfo.cs
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.csproj.CoreCompileInputs.cache
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.dll
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/ref/Alura.Estacionamento.dll
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.pdb
+/Users/paulo/Development/learning/dotnet/alura.estacionamento/Alura.Estacionamento/obj/Debug/net6.0/Alura.Estacionamento.genruntimeconfig.cache
